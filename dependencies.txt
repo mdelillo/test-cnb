@@ -88,3 +88,12 @@ source_data:
   download_date: "2019-11-14T15:30:29Z"
   source_sha256: 2f3318aff5e15f1be4e1b4fd864fa66d4e531a6c83c5de71b2e36aacf68b05c7
   source_url: https://github.com/mdelillo/test-dependency/releases/download/v2.0.0/artifact.tgz
+-------------
+name: test-dependency-source
+version: 2.0.1
+stack: cflinuxfs3
+sha256: 1c97a6c41fdd85c707d35950aeccc35adb4a7a650448c784e7b99ed7732adcdd.tgz
+source_data:
+  download_date: "2019-11-14T22:26:08Z"
+  source_sha256: 1c97a6c41fdd85c707d35950aeccc35adb4a7a650448c784e7b99ed7732adcdd
+  source_url: https://github.com/mdelillo/test-dependency/archive/v2.0.1.tar.gz
